@@ -12,7 +12,7 @@ namespace CameraMan
         // ReSharper disable block MemberCanBePrivate.Global
         public const string PluginGuid = "oppodelldog.mod.cameraman";
         public const string PluginName = "CameraMan";
-        public const string PluginVersion = "0.1.0";
+        public const string PluginVersion = "0.2.0";
 
         private CameraManController _camController;
         private CameraManTrackController _trackControllerController;
